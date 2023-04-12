@@ -1,2 +1,2 @@
-# famaticas
+# farmaticas
 Proyecto Farmacias Ticas 
